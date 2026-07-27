@@ -1,0 +1,244 @@
+{
+  "employees": [
+    {
+      "id": "emp_1784210426538",
+      "name": "Kamlesh Yadav",
+      "pin": "2580",
+      "designation": "Lead Techinical Recuiter",
+      "deviceId": "DESKTOP-EC9LRGM",
+      "dateCreated": "2026-07-16T14:00:26.539Z"
+    },
+    {
+      "id": "emp_1784210755010",
+      "name": "M.Ajay Kumar",
+      "pin": "2000",
+      "designation": "Bench Sales Recruiter",
+      "deviceId": "",
+      "dateCreated": "2026-07-16T14:05:55.010Z"
+    }
+  ],
+  "attendance": [
+    {
+      "employeeId": "emp_1784141960795",
+      "date": "2026-07-15",
+      "clockIn": "14:59:40",
+      "clockOut": null,
+      "status": "Present",
+      "type": "Auto",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-16",
+      "clockIn": "10:00:37",
+      "clockOut": "18:16:49",
+      "status": "Present",
+      "type": "Auto",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-16",
+      "clockIn": "10:06:41",
+      "clockOut": "18:16:13",
+      "status": "Present",
+      "type": "Auto",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-17",
+      "clockIn": "10:40:57",
+      "clockOut": "18:04:10",
+      "status": "Present",
+      "type": "Auto",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-17",
+      "clockIn": "10:40:35",
+      "clockOut": "18:04:07",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-20",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-20",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-21",
+      "clockIn": "09:55:54",
+      "clockOut": "18:02:55",
+      "status": "Present",
+      "type": "Auto",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-21",
+      "clockIn": "09:58:51",
+      "clockOut": "18:03:13",
+      "status": "Present",
+      "type": "Auto",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-22",
+      "clockIn": "09:58:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-22",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-23",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-23",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-24",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": "WFH today "
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-24",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": "WFH today "
+    }
+  ],
+  "screenTime": {
+    "emp_1": {
+      "2026-07-15": 5
+    },
+    "emp_1784141960795": {
+      "2026-07-15": 85
+    },
+    "emp_1784210426538": {
+      "2026-07-16": 405,
+      "2026-07-17": 270,
+      "2026-07-21": 390
+    },
+    "emp_1784210755010": {
+      "2026-07-16": 385,
+      "2026-07-17": 275,
+      "2026-07-21": 410
+    }
+  },
+  "adminSettings": {
+    "adminPin": "9999"
+  },
+  "appUsage": {
+    "emp_1784210426538": {
+      "2026-07-16": {
+        "attendance-client 1 1": 10,
+        "explorer": 380,
+        "WhatsAppRoot": 1280,
+        "chrome": 18070,
+        "WINWORD": 4210,
+        "SearchHost": 20,
+        "WindowsTerminal": 20,
+        "EXCEL": 110,
+        "ShellExperienceHost": 40
+      },
+      "2026-07-17": {
+        "attendance-client 1 1": 10,
+        "explorer": 480,
+        "chrome": 11090,
+        "WINWORD": 3570,
+        "WhatsAppRoot": 1010,
+        "MaxxAudioPro": 20,
+        "ShellExperienceHost": 10,
+        "SearchHost": 10
+      },
+      "2026-07-21": {
+        "WhatsAppRoot": 1160,
+        "explorer": 330,
+        "chrome": 19180,
+        "WINWORD": 2340,
+        "EXCEL": 360,
+        "ShellExperienceHost": 10
+      }
+    },
+    "emp_1784210755010": {
+      "2026-07-16": {
+        "attendance-client": 30,
+        "explorer": 1600,
+        "chrome": 14850,
+        "msedge": 560,
+        "SearchHost": 10,
+        "WindowsTerminal": 40,
+        "WINWORD": 5620,
+        "ShellHost": 10,
+        "Notepad": 60,
+        "SnippingTool": 10
+      },
+      "2026-07-17": {
+        "attendance-client": 10,
+        "explorer": 630,
+        "chrome": 12250,
+        "msedge": 190,
+        "WINWORD": 3160,
+        "ShellHost": 30,
+        "Notepad": 10,
+        "SearchHost": 10
+      },
+      "2026-07-21": {
+        "explorer": 960,
+        "chrome": 16430,
+        "WINWORD": 6580,
+        "msedge": 390,
+        "ShellHost": 50,
+        "ApplicationFrameHost": 10,
+        "ShellExperienceHost": 20
+      }
+    }
+  }
+}

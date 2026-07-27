@@ -1,0 +1,7 @@
+{
+  "name": "office-attendance-client",
+  "version": "1.0.0",
+  "private": true,
+  "main": "client.js",
+  "bin": "client.js"
+}

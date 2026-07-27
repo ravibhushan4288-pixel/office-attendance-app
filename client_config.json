@@ -1,0 +1,7 @@
+{
+  "serverUrl": "http://localhost:5000",
+  "employeeId": "",
+  "employeeName": "",
+  "employeeDesignation": "",
+  "autoPopup": "true"
+}

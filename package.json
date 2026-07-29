@@ -5,12 +5,12 @@
   "type": "module",
   "bin": "server/server.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "preview": "vite preview",
-    "build:admin": "npm run build && npx pkg . --targets node18-win-x64 --output attendance-admin.exe",
-    "build:client": "npx pkg client/package.json --targets node18-win-x64 --output attendance-client.exe",
-    "build:all": "node build-binaries.cjs"
+    "build:admin": "node init && npm run build && npx pkg . --targets node18-win-x64 --output attendance-admin.exe",
+    "build:client": "node init && npx pkg client/package.json --targets node18-win-x64 --output attendance-client.exe",
+    "build:all": "node init && node build-binaries.cjs"
   },
   "pkg": {
     "assets": [

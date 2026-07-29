@@ -152,6 +152,24 @@
       "status": "Present",
       "type": "Manual",
       "notes": "WFH today "
+    },
+    {
+      "employeeId": "emp_1784210426538",
+      "date": "2026-07-29",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
+    },
+    {
+      "employeeId": "emp_1784210755010",
+      "date": "2026-07-29",
+      "clockIn": "10:00:00",
+      "clockOut": "18:00:00",
+      "status": "Present",
+      "type": "Manual",
+      "notes": ""
     }
   ],
   "screenTime": {
